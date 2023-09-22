@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436423039803",
+    "project_id": "prelimexamsiburian",
+    "storage_bucket": "prelimexamsiburian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436423039803:android:615674549a4074a0cab51e",
+        "android_client_info": {
+          "package_name": "ph.edu.uic.prelimexam_siburian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYC55vX1iv4SeYkiikFjBhyCoYqY70TH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
